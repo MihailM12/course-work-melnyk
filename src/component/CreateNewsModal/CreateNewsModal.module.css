@@ -1,0 +1,34 @@
+.modal {
+    color: #333 ;
+}
+
+.field{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fieldTitle{
+    color:#333;
+    font-size: 20px;
+}
+
+.field > textarea{
+    width: 350px;
+    height: 200px;
+}
+
+.addImagesCont{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.addImagesBtn{
+    border:none;
+    background: #333;
+    border-radius: 100%;
+    padding: 3px 10px;
+    color:#fefefe;
+}

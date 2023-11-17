@@ -1,0 +1,16 @@
+.imageContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel{
+    margin: 50px 0;
+}
+
+.descriptionBlock{
+    padding:0 100px;
+    font-size: 22px;
+    margin-top: 50px;
+    color:#fefefe;
+}

@@ -1,0 +1,37 @@
+.card{
+    background: rgba(230,230, 230, 0.5);
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+.date{
+    color:#333;
+    padding: 5px 10px;
+    align-self: start;
+}
+
+.img{
+    width: 95%;
+}
+
+.title{
+    color:#fefefe;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.s{
+    width: 250px;
+    font-size: 12px;
+}

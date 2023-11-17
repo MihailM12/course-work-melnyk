@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    border: white 1px solid;
+    padding: 5px 20px;
+    font-weight: 500;
+    color: #1c2346;
+}
+
+.link:hover{
+    transition-duration: 300ms;
+    background: #333;
+    color:white;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
